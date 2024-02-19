@@ -5,6 +5,6 @@
 - *Display Flex*
 - *So..  many CSS Properties*
 
-### [Live Link](https://live-class-project14.vercel.app)
+### [Live Link](https://ui-clone-pearl.vercel.app/)https://ui-clone-pearl.vercel.app/)
 
 **Project is responsive**
